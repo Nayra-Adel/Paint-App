@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\lenovo12\desktop\graphics\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1528542777 c:\users\lenovo12\desktop\graphics\resource.h
+
+1528542176 source:c:\users\lenovo12\desktop\graphics\resource.rc
+	"resource.h"
+
